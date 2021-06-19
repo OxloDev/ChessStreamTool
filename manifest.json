@@ -1,0 +1,20 @@
+{
+  "name": "Chess Stream Tool",
+  "description": "Removes informationt that users may use to target streamers",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": { "16": "icon16.png",
+    "48": "icon48.png",
+   "128": "icon128.png" },
+  "permissions": [
+      "storage", 
+      "activeTab", 
+      "scripting"],
+  "host_permissions": ["https://www.chess.com/*", "https://lichess.org/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
