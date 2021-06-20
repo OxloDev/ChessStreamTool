@@ -1,4 +1,5 @@
-Chrome extension created to hide the information of you or your oponent. 
+_Details_
+Chrome extension created to hide the information of you or your oponent. Work's on Chess.com and Lichess.org.
 
 ## Stream Uses ##
 * Prevent's stream sniping
