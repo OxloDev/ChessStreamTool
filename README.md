@@ -1,6 +1,6 @@
 Chrome extension created to hide the information of you or your oponent. 
 
-## Uses ##
+## Stream Uses ##
 * Prevent's stream sniping
 * Hide account identity
 * Hide match ratings
