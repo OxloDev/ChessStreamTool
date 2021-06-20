@@ -1,5 +1,6 @@
 ## Stream Uses ##
 * Prevent stream sniping
+* Helps with Elo anxiety
 * Hide account identity
 * Hide match ratings
 
@@ -8,3 +9,4 @@
 
 <br/>_(Details)_<br/>
 Chrome extension created for content creation purposes to hide the information of you or your opponent. Currently working on on Chess.com with limited use on Lichess.org.
+Intended for chess streamers or players with Elo anxiety.
