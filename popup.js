@@ -64,11 +64,3 @@ function clearAvatar() {
     }
 }
 
-function clearContent(className, doc) {
-    alert("clearContent() was called")
-    var documentElements = doc.getElementsByClassName(className)
-    for (var i = 0; i < documentElements.length; i++) {
-        documentElements[i].textContent = "----"
-    }
-}
-
