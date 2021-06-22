@@ -1,4 +1,4 @@
-####[Download Chrome Extension]:#### https://chrome.google.com/webstore/detail/chess-stream-tool/mgepojigocdijhdgoimbdcklpgeimdej?hl=en&authuser=0
+####[https://chrome.google.com/webstore/detail/chess-stream-tool/mgepojigocdijhdgoimbdcklpgeimdej?hl=en&authuser=0]:#### Link
 
 ## Stream Uses ##
 * Prevent stream sniping
