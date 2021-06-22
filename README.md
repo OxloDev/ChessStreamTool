@@ -1,5 +1,6 @@
 ## Stream Uses ##
 * Prevent stream sniping
+* Prevent Targeted Harassment
 * Helps with Elo anxiety
 * Hide account identity
 * Hide match ratings
