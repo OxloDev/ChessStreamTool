@@ -1,13 +1,10 @@
-#### [Link to Chrome Extension!](https://chrome.google.com/webstore/detail/chess-stream-tool/mgepojigocdijhdgoimbdcklpgeimdej?hl=en&authuser=0) ####
-
-
 ## Stream Uses ##
 * Prevent stream sniping
 * Helps with Elo anxiety
 * Hide account identity
 * Hide match ratings
 
-
+### [Link to Chrome Extension!](https://chrome.google.com/webstore/detail/chess-stream-tool/mgepojigocdijhdgoimbdcklpgeimdej?hl=en&authuser=0) ###
 ![test](https://cdn.discordapp.com/attachments/769615066001047552/856180289671659530/ezgif.com-gif-maker_1.gif)
 
 <br/>_(Details)_<br/>
