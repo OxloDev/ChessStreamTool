@@ -1,3 +1,5 @@
+####[Download Chrome Extension]:#### https://chrome.google.com/webstore/detail/chess-stream-tool/mgepojigocdijhdgoimbdcklpgeimdej?hl=en&authuser=0
+
 ## Stream Uses ##
 * Prevent stream sniping
 * Helps with Elo anxiety
